@@ -1,0 +1,6 @@
+[submodule "Wizz_mania_server"]
+	path = Wizz_mania_server
+	url = https://github.com/mathis-serra/Wizz_mania_server.git
+[submodule "Wizz_mania_client"]
+	path = Wizz_mania_client
+	url = https://github.com/mathis-serra/Wizz_mania_client
